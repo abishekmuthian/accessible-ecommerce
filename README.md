@@ -7,7 +7,7 @@ A functional mock fashion & beauty e-commerce store optimized for accessibility.
 Clicking the above image will open the video on YouTube.
 
 ### Website
-[accessiblecommerce.store](accessiblecommerce.store)
+[accessiblecommerce.store](https://accessiblecommerce.store)
 
 ## Run Accessible eCommerce locally
 
